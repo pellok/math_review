@@ -18,13 +18,7 @@
 
 標出條件 -&gt; 根據條件設定未知數 -&gt; 依據條件敘述寫出方程式 -&gt; 利用四則運算解方程式 -&gt;驗算答案是否正確![](/assets/螢幕快照 2019-01-29 下午10.32.58.png)
 
-### 16. [濃度的觀念](https://www.youtube.com/watch?v=oAJgtc60SFA&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg&index=16)
-
-#### 定義：濃度 = 溶質/溶液 = 溶質/溶質+溶劑
-
-溶質增加 -&gt;溶劑不變、濃度增加
-
-溶劑增加 -&gt;溶質不變、濃度減少![](/assets/螢幕快照 2019-01-29 下午10.33.52.png)
+### 
 
 ### 17. [二元一次方程式的列式](https://www.youtube.com/watch?v=BhaRFT9rGW8&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg&index=17)
 
