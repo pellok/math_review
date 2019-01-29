@@ -2,20 +2,6 @@
 
 #### 出處：[國中數學總複習](https://www.youtube.com/watch?v=xFeUKyaBY6U&index=1&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg)
 
-### 1. [數線的觀念](https://www.youtube.com/watch?v=xFeUKyaBY6U&index=1&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg)
-
-#### 數線三要數：原點、單位、放向![](/assets/螢幕快照 2019-01-29 下午9.07.09.png)
-
-#### 大小關係：左邊數字較小、右邊數字較大![](/assets/螢幕快照 2019-01-29 下午9.09.01.png)
-
-### 2. [負數的觀念](https://www.youtube.com/watch?v=wJC_osBvIio&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg&index=2)
-
-#### 大小順序： \(-3\) &lt; \(-2\) &lt; \(-1\) &lt; 0![](/assets/螢幕快照 2019-01-29 下午9.10.28.png)
-
-#### 負數的乘法\(負負得正，正負得負\)： \(-3\) x \(+2\) = \(-6\)![](/assets/螢幕快照 2019-01-29 下午9.12.00.png)
-
-#### 負數的連乘積：偶數個負數連乘積為正，奇數個負數連乘積為負![](/assets/螢幕快照 2019-01-29 下午9.12.48.png)
-
 ### 3. [相反數與倒數](https://www.youtube.com/watch?v=sl4M2ipMpOg&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg&index=3)
 
 #### 相反數： A + B = 0 \(3.7 + -3.7\)
@@ -230,8 +216,6 @@ a的-n次方 = 1/a的n次方，a不等於0
 
 溶劑增加 -&gt;溶質不變、濃度減少![](/assets/螢幕快照 2019-01-29 下午10.33.52.png)
 
-
-
 ### 17. [二元一次方程式的列式](https://www.youtube.com/watch?v=BhaRFT9rGW8&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg&index=17)
 
 #### 總和問題： 甲、乙兩數：設甲數為x、乙數為y![](/assets/螢幕快照 2019-01-29 下午10.35.01.png)
@@ -276,7 +260,7 @@ a的-n次方 = 1/a的n次方，a不等於0
 
 3x + 4y = 11 \(1\)
 
-7x - 4y = 29 \(2\) -&gt; \(1\) + \(2\) 
+7x - 4y = 29 \(2\) -&gt; \(1\) + \(2\)
 
 取最小公倍數在做相加減
 
@@ -358,8 +342,6 @@ a的-n次方 = 1/a的n次方，a不等於0
 
 12² — 11² = 144–121 = 23 = 12 + 11
 
-
-
 #### 畢氏定理 = 商高定理：
 
 直角三角形的兩股長為a, b，斜邊長為c，則a² + b² = c²
@@ -375,8 +357,6 @@ a=3,b=4,c=5
 #### 根號的乘除法
 
 ![](/assets/螢幕快照 2019-01-29 下午10.46.41.png)
-
-
 
 因式與倍式
 
