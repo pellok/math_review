@@ -10,4 +10,5 @@
   * [濃度](chapter1/nong-du.md)
   * [一元一次方程式](chapter1/yi-yuan-yi-ci-fang-cheng-shi.md)
   * [二元一次方程式](chapter1/er-yuan-yi-ci-fang-cheng-shi.md)
+  * [根號](chapter1/gen-hao.md)
 
