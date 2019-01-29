@@ -76,8 +76,6 @@
 
 ![](/assets/螢幕快照 2019-01-29 下午11.41.01.png)
 
-
-
 ### 23. [多項式的除法](https://www.youtube.com/watch?v=dIwpRTCosBk&index=23&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg)
 
 #### 注意陷阱
@@ -86,9 +84,65 @@
 
 #### 運算：4x²+8x-3 ÷ 2x+3![](/assets/螢幕快照 2019-01-29 下午11.43.11.png)
 
+### 24. [因式分解](https://www.youtube.com/watch?v=ikAfOT0_Nug&index=24&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg)
 
+#### 提出公因式： ap+aq-ar = a\(p+q-r\)![](/assets/螢幕快照 2019-01-29 下午11.47.15.png)
 
+#### 分組提公因式：
 
+pa+pb+qa+qb =
+
+\(pa+pb\)+\(qa+qb\) =
+
+p\(a+b\)+q\(a+b\) =
+
+\(p+q\)\(a+b\)
+
+![](/assets/螢幕快照 2019-01-29 下午11.47.46.png)
+
+#### 十字交乘法： acx²+\(bc+ad\)x+bd=\(ax+b\)\(cx+d\)
+
+#### x²+\(p+q\)x+pq＝\(x+p\)\(x+q\)![](/assets/螢幕快照 2019-01-29 下午11.48.18.png)
+
+### 25. [配方法](https://www.youtube.com/watch?v=cgFhuB9YEwc&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg&index=25)
+
+乘法公式：
+
+\(x+y\)² = x²+2xy+y²
+
+\(a+b\)² = a²+2ab+b²![](/assets/螢幕快照 2019-01-29 下午11.51.50.png)
+
+平方根
+
+p² =q , q &gt;= 0
+
+p=±²√q![](/assets/螢幕快照 2019-01-29 下午11.50.51.png)
+
+[配方法](https://zh.wikipedia.org/wiki/配方法)
+
+若一元二次方程式ax²+bx+c=0確定有解，則其解為
+
+x = \(-b ± √b²-4ac\) / 2a
+
+ax²+bx+c=0
+
+#### 1.除以x²項係數a ：x²+\(b/a\)x+\(c/a\)=0![](/assets/螢幕快照 2019-01-29 下午11.55.28.png)
+
+#### 2.將x項係數提出2 ：x²+2x\(x\)x\(b/2a\)+\(c/a\)=0![](/assets/螢幕快照 2019-01-29 下午11.57.19.png)
+
+#### 3.將常數項移項 ： x²+2x\(x\)x\(b/2a\)=-\(c/a\)![](/assets/螢幕快照 2019-01-29 下午11.58.27.png)
+
+#### 4. 補平方 ：x²+2x\(x\)x\(b/2a\)+\(b/2a\)² = -\(c/a\)+\(b/2a\)²
+
+#### 5.配平方 ：\(x+\(b/2a\)\)² = -\(c/a\)+\(b/2a\)²![](/assets/螢幕快照 2019-01-30 上午12.00.13.png)
+
+#### 6.展開配方法 ： \(x+\(b/2a\)\)² = -\(c/a\)+ \(b²/4a²\)![](/assets/螢幕快照 2019-01-30 上午12.03.18.png)
+
+#### 7.通分計算 ： \(x+\(b/2a\)\)² = \(-c/a \* 4a/4a\)+\(b²/4a²\) = -\(4ab/4a²\)+\(b²/4a²\) = \(b² - 4ab\) /4b²![](/assets/螢幕快照 2019-01-30 上午12.03.41.png)
+
+#### 8.求平方根 ： x+\(b/2a\) = ± √\(\(b² - 4ab\) /4b²\) = ± √\(\(b² - 4ab\) /2a![](/assets/螢幕快照 2019-01-30 上午12.04.16.png)
+
+#### 9.將常數項移項 ： x = -\(b/2a\) ± √\(\(b² - 4ab\) /2a = \(-b ± √b²-4ac\) / 2a![](/assets/螢幕快照 2019-01-30 上午12.04.32.png)
 
 
 
