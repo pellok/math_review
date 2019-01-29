@@ -9,4 +9,5 @@
   * [體積與容積](chapter1/ti-ji-yu-rong-ji.md)
   * [濃度](chapter1/nong-du.md)
   * [一元一次方程式](chapter1/yi-yuan-yi-ci-fang-cheng-shi.md)
+  * [二元一次方程式](chapter1/er-yuan-yi-ci-fang-cheng-shi.md)
 
