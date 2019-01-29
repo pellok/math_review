@@ -8,8 +8,6 @@
 
 #### 大小關係：左邊數字較小、右邊數字較大![](/assets/螢幕快照 2019-01-29 下午9.09.01.png)
 
-
-
 ### 2. [負數的觀念](https://www.youtube.com/watch?v=wJC_osBvIio&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg&index=2)
 
 #### 大小順序： \(-3\) &lt; \(-2\) &lt; \(-1\) &lt; 0![](/assets/螢幕快照 2019-01-29 下午9.10.28.png)
@@ -32,9 +30,13 @@
 
 ### 4. [整數的四則運算](https://www.youtube.com/watch?v=oBEOTwi3S1w&list=PLi6W4agASPdwfSUpCLlNiUINPJeb6P4Eg&index=4)
 
-先乘除後加減
+#### 先乘除後加減
 
-拆括弧
+![](/assets/螢幕快照 2019-01-29 下午9.17.16.png)
+
+#### 拆括弧
+
+![](/assets/螢幕快照 2019-01-29 下午9.17.48.png)
 
 分數的四則運算
 
